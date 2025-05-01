@@ -1,0 +1,10 @@
+langchain
+openai
+faiss-cpu
+transformers
+sentence-transformers
+streamlit
+beautifulsoup4
+requests
+pymupdf
+tqdm
